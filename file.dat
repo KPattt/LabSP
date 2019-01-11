@@ -1,0 +1,416 @@
+/home/LABPK/kpatecki/.profile
+/home/LABPK/kpatecki/.bashrc
+/home/LABPK/kpatecki/mail/mbox
+/home/LABPK/kpatecki/.bash_logout
+/home/LABPK/kpatecki/.Xauthority
+/home/LABPK/kpatecki/.config/user-dirs.locale
+/home/LABPK/kpatecki/.config/user-dirs.dirs
+/home/LABPK/kpatecki/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml
+/home/LABPK/kpatecki/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml
+/home/LABPK/kpatecki/.config/xfce4/xfconf/xfce-perchannel-xml/xfwm4.xml
+/home/LABPK/kpatecki/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
+/home/LABPK/kpatecki/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml
+/home/LABPK/kpatecki/.config/xfce4/xfconf/xfce-perchannel-xml/keyboards.xml
+/home/LABPK/kpatecki/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml
+/home/LABPK/kpatecki/.config/xfce4/desktop/icons.screen0-1904x1039.rc
+/home/LABPK/kpatecki/.config/xfce4/panel/whiskermenu-1.rc
+/home/LABPK/kpatecki/.config/xfce4/terminal/accels.scm
+/home/LABPK/kpatecki/.config/xubuntu/xdg-xubuntu-templates.cfg
+/home/LABPK/kpatecki/.config/gtk-3.0/bookmarks
+/home/LABPK/kpatecki/.config/dconf/user
+/home/LABPK/kpatecki/.config/pulse/6967858dc7f24b59bf639d483da65107-device-volumes.tdb
+/home/LABPK/kpatecki/.config/pulse/6967858dc7f24b59bf639d483da65107-stream-volumes.tdb
+/home/LABPK/kpatecki/.config/pulse/6967858dc7f24b59bf639d483da65107-card-database.tdb
+/home/LABPK/kpatecki/.config/pulse/cookie
+/home/LABPK/kpatecki/.config/pulse/6967858dc7f24b59bf639d483da65107-default-sink
+/home/LABPK/kpatecki/.config/pulse/6967858dc7f24b59bf639d483da65107-default-source
+/home/LABPK/kpatecki/.config/pulse/9addb085d21b4302b87bcb16e29b5c7f-device-volumes.tdb
+/home/LABPK/kpatecki/.config/pulse/9addb085d21b4302b87bcb16e29b5c7f-stream-volumes.tdb
+/home/LABPK/kpatecki/.config/pulse/9addb085d21b4302b87bcb16e29b5c7f-card-database.tdb
+/home/LABPK/kpatecki/.config/pulse/9addb085d21b4302b87bcb16e29b5c7f-default-sink
+/home/LABPK/kpatecki/.config/pulse/9addb085d21b4302b87bcb16e29b5c7f-default-source
+/home/LABPK/kpatecki/.config/Thunar/accels.scm
+/home/LABPK/kpatecki/.config/Thunar/uca.xml
+/home/LABPK/kpatecki/.config/libreoffice/4/user/config/javasettings_Linux_X86_64.xml
+/home/LABPK/kpatecki/.config/libreoffice/4/user/config/autotbl.fmt
+/home/LABPK/kpatecki/.config/libreoffice/4/user/extensions/buildid
+/home/LABPK/kpatecki/.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend/backenddb.xml
+/home/LABPK/kpatecki/.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend/backenddb.xml
+/home/LABPK/kpatecki/.config/libreoffice/4/user/extensions/shared/lastsynchronized
+/home/LABPK/kpatecki/.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend/backenddb.xml
+/home/LABPK/kpatecki/.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend/backenddb.xml
+/home/LABPK/kpatecki/.config/libreoffice/4/user/extensions/bundled/lastsynchronized
+/home/LABPK/kpatecki/.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend/backenddb.xml
+/home/LABPK/kpatecki/.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend/backenddb.xml
+/home/LABPK/kpatecki/.config/libreoffice/4/user/database/biblio.odb
+/home/LABPK/kpatecki/.config/libreoffice/4/user/database/biblio/biblio.dbf
+/home/LABPK/kpatecki/.config/libreoffice/4/user/database/biblio/biblio.dbt
+/home/LABPK/kpatecki/.config/libreoffice/4/user/gallery/sg30.thm
+/home/LABPK/kpatecki/.config/libreoffice/4/user/gallery/sg30.sdv
+/home/LABPK/kpatecki/.config/libreoffice/4/user/autotext/mytexts.bau
+/home/LABPK/kpatecki/.config/libreoffice/4/user/basic/script.xlc
+/home/LABPK/kpatecki/.config/libreoffice/4/user/basic/dialog.xlc
+/home/LABPK/kpatecki/.config/libreoffice/4/user/basic/Standard/script.xlb
+/home/LABPK/kpatecki/.config/libreoffice/4/user/basic/Standard/dialog.xlb
+/home/LABPK/kpatecki/.config/libreoffice/4/user/basic/Standard/Module1.xba
+/home/LABPK/kpatecki/.config/libreoffice/4/user/uno_packages/cache/log.txt
+/home/LABPK/kpatecki/.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend/backenddb.xml
+/home/LABPK/kpatecki/.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend/backenddb.xml
+/home/LABPK/kpatecki/.config/libreoffice/4/user/registrymodifications.xcu
+/home/LABPK/kpatecki/.config/libreoffice/4/user/pack/registrymodifications.pack
+/home/LABPK/kpatecki/.config/libreoffice/4/user/pack/autotext/mytexts.pack
+/home/LABPK/kpatecki/.config/libreoffice/4/user/pack/basic/dialog.pack
+/home/LABPK/kpatecki/.config/libreoffice/4/user/pack/basic/script.pack
+/home/LABPK/kpatecki/.config/libreoffice/4/user/pack/basic/Standard/Module1.pack
+/home/LABPK/kpatecki/.config/libreoffice/4/user/pack/basic/Standard/dialog.pack
+/home/LABPK/kpatecki/.config/libreoffice/4/user/pack/basic/Standard/script.pack
+/home/LABPK/kpatecki/.config/libreoffice/4/user/pack/config/autotbl.pack
+/home/LABPK/kpatecki/.config/libreoffice/4/user/pack/config/javasettings_Linux_X86_64.pack
+/home/LABPK/kpatecki/.config/libreoffice/4/user/pack/database/biblio.pack
+/home/LABPK/kpatecki/.config/libreoffice/4/user/pack/database/biblio/biblio.pack
+/home/LABPK/kpatecki/.config/libreoffice/4/user/pack/ExtensionInfo.pack
+/home/LABPK/kpatecki/.config/geany/filedefs/filetypes.README
+/home/LABPK/kpatecki/.config/geany/templates/templates.README
+/home/LABPK/kpatecki/.config/geany/keybindings.conf
+/home/LABPK/kpatecki/.config/geany/geany.conf
+/home/LABPK/kpatecki/.config/Mousepad/accels.scm
+/home/LABPK/kpatecki/.config/mimeapps.list
+/home/LABPK/kpatecki/Pulpit/test.txt
+/home/LABPK/kpatecki/Pulpit/test2.txt
+/home/LABPK/kpatecki/Pulpit/plik.c
+/home/LABPK/kpatecki/Pulpit/tydzien/poniedzialek/rano/skrypt2
+/home/LABPK/kpatecki/Pulpit/tydzien/poniedzialek/wieczor/skrypt
+/home/LABPK/kpatecki/Pulpit/tydzien/sroda/noc/skrypt1
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/zad2.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/zad2
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/zad4.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/zad3
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/zad3.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/zad4
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/zad1.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/zad1
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/zad5.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/zad5
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/zad6.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/zad6
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/zad7.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/zad7.exe
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab3/zad1.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab3/zad1
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab3/zad2.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab3/zad2
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab3/zad3.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab3/zad3
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab3/zad4.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab3/zad4
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab3/zad5.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab3/zad5
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab3/zad6.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab3/zad6
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab5/zad1.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab5/zad1
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab5/zad2.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab5/zad2
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab5/zad3.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab5/zad3
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab5/zad4.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab5/zad4
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab5/zad5.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab5/zad5
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab6/zad1.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab6/zad1
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab6/zad2.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab6/zad2
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab6/zad3.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab6/zad3
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab6/zad4.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab6/zad4
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab6/zad5.c
+/home/LABPK/kpatecki/Pulpit/wst-do-prog/lab6/zad5
+/home/LABPK/kpatecki/Pulpit/Laboratorium2/brzechwa.txt
+/home/LABPK/kpatecki/Pulpit/Laboratorium2/licznik.txt
+/home/LABPK/kpatecki/Pulpit/Laboratorium2/plik2.txt
+/home/LABPK/kpatecki/Pulpit/Laboratorium2/moja_praca.txt
+/home/LABPK/kpatecki/Pulpit/skrypt
+/home/LABPK/kpatecki/Pulpit/London.txt
+/home/LABPK/kpatecki/Pulpit/lab6/argg.sh
+/home/LABPK/kpatecki/Pulpit/lab6/argg2.sh
+/home/LABPK/kpatecki/Pulpit/lab6/argg3.sh
+/home/LABPK/kpatecki/Pulpit/lab6/files.sh
+/home/LABPK/kpatecki/Pulpit/lab6/file.dat
+/home/LABPK/kpatecki/Pobrane/skrypt.sh
+/home/LABPK/kpatecki/Pobrane/#skrypt.sh#
+/home/LABPK/kpatecki/Szablony/OpenDocument Text.odt
+/home/LABPK/kpatecki/Szablony/OpenDocument Spreadsheet.ods
+/home/LABPK/kpatecki/Szablony/Plain Text.txt
+/home/LABPK/kpatecki/Publiczny/Lab2/licznik.txt
+/home/LABPK/kpatecki/Publiczny/Lab2/brzechwa.txt
+/home/LABPK/kpatecki/Publiczny/Lab2/moja_praca.txt
+/home/LABPK/kpatecki/Publiczny/Lab2/plik2.txt
+/home/LABPK/kpatecki/Publiczny/LAB3/tydzien/poniedzialek/rano/skrypt2
+/home/LABPK/kpatecki/Publiczny/LAB3/tydzien/poniedzialek/wieczor/skrypt
+/home/LABPK/kpatecki/Publiczny/LAB3/tydzien/wtorek/find0
+/home/LABPK/kpatecki/Publiczny/LAB3/find_skrypt
+/home/LABPK/kpatecki/.ICEauthority
+/home/LABPK/kpatecki/.local/share/keyrings/login.keyring
+/home/LABPK/kpatecki/.local/share/keyrings/user.keystore
+/home/LABPK/kpatecki/.local/share/gvfs-metadata/home
+/home/LABPK/kpatecki/.local/share/gvfs-metadata/home-86b5ec09.log
+/home/LABPK/kpatecki/.local/share/recently-used.xbel
+/home/LABPK/kpatecki/.local/share/Trash/info/program.exe.trashinfo
+/home/LABPK/kpatecki/.local/share/Trash/info/kod.c.trashinfo
+/home/LABPK/kpatecki/.local/share/Trash/info/program.trashinfo
+/home/LABPK/kpatecki/.local/share/Trash/info/London.dat.trashinfo
+/home/LABPK/kpatecki/.local/share/Trash/info/London.txt.trashinfo
+/home/LABPK/kpatecki/.local/share/Trash/info/zad1.c.trashinfo
+/home/LABPK/kpatecki/.local/share/Trash/files/program.exe
+/home/LABPK/kpatecki/.local/share/Trash/files/kod.c
+/home/LABPK/kpatecki/.local/share/Trash/files/program
+/home/LABPK/kpatecki/.local/share/Trash/files/London.dat
+/home/LABPK/kpatecki/.local/share/Trash/files/London.txt
+/home/LABPK/kpatecki/.local/share/Trash/files/zad1.c
+/home/LABPK/kpatecki/.bash_history
+/home/LABPK/kpatecki/.mozilla/firefox/Crash Reports/InstallTime20181002130007
+/home/LABPK/kpatecki/.mozilla/firefox/Crash Reports/InstallTime20181023214826
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/times.json
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/.parentlock
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/crashes/store.json.mozlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/compatibility.ini
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/cookies.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/blocklist.xml
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/prefs.js
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/permissions.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/extensions.json
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/cert9.db
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/places.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/favicons.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/cookies.sqlite-wal
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/xulstore.json
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/places.sqlite-wal
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/favicons.sqlite-wal
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/bookmarkbackups/bookmarks-2018-11-07_19_Sm6cfbVSdubV-+KQJPMbgg==.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/TRRBlacklist.txt
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/secmod.db
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/webappsstore.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/addonStartup.json.lz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/sessionCheckpoints.json
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/pkcs11.txt
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/key4.db
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/webappsstore.sqlite-wal
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/addons.json
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/content-prefs.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/sessionstore-backups/previous.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/sessionstore-backups/recovery.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/sessionstore-backups/upgrade.jsonlz4-20181002130007
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/sessionstore-backups/upgrade.jsonlz4-20181023214826
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/sessionstore-backups/recovery.baklz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/search.json.mozlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/1451318868ntouromlalnodry--epcr.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/2918063365piupsah.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/284131803msatinne%m2iFrfeopcxu.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/911854228msaeiinr%a2nFoliatncg.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/3561288849sdhlie.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/3345959086bslnoocdkdlaiFs2t%s.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/1563863681mnaoiint%a2cFisfiitse.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/4187298971mraficnF%2.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/4219953499msafienr%p2-Ftreokc.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/1120544067mganiind%r2aFoobn.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/1059394878bslnoicgkullipsFt2s%.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/4184564211msaliend%o2mF-preerds.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/1039479565meapiinc%e2rF-preerds.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/727688008bsleotcakcliifsittsr%.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/549939322msaeihnc%a2eFrfbx-mro.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/1397314265mpaoitny%p2pFit.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/3899588440psinninpiFn2g%.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/idb/1725441852bxlfogcFk2l%isst.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/.metadata
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/permanent/chrome/.metadata-v2
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/about+newtab/idb/3312185054sbndi_pspte.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/about+newtab/idb/3312185054sbndi_pspte.files/13
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/about+newtab/.metadata
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/about+newtab/.metadata-v2
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/about+home/idb/3312185054sbndi_pspte.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/about+home/idb/3312185054sbndi_pspte.files/7
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/about+home/.metadata
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/about+home/.metadata-v2
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/http+++vim.wikia.com/idb/52296910_u_dna.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/http+++vim.wikia.com/.metadata
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/http+++vim.wikia.com/.metadata-v2
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/https+++tpc.googlesyndication.com/idb/12183338011.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/https+++tpc.googlesyndication.com/.metadata
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/https+++tpc.googlesyndication.com/.metadata-v2
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/https+++www.google.com/idb/548905059db.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/https+++www.google.com/.metadata
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/storage/default/https+++www.google.com/.metadata-v2
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/cert8.db
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/containers.json
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/handlers.json
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/revocations.txt
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1538721506659.b8b84077-3b2c-46de-844e-3cf09a003ff2.modules.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1538721186391.9503552d-9061-470f-9612-2f3b13958142.main.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1538723616126.f8bc06a9-c004-4f12-a82a-6b0d6acf5a45.first-shutdown.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1538722616069.c7aef597-abea-4034-90f9-a0c8a1ce623f.new-profile.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1538723615925.926c1248-e9e3-4eec-80a7-4a9fd82a404d.event.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1538723616124.4163cf5f-14e0-4006-9065-1eeb4cfc410b.main.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1539326306989.ac42baf7-f73c-4009-85e7-d8db44583616.modules.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1539174282628.43c94429-fe02-4b61-a1b0-b60de972ef04.main.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1539177549516.57ff5ea9-604a-48ad-ada3-b84169015d0b.event.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1539179443165.dc7519fa-8c12-40cd-aee6-8fc07568dd64.event.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1539179443411.fa27fb66-e04c-4919-9c02-8fea04f36aff.main.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1539931106902.87f34ee3-3d2f-4d35-8d75-2fc70a35cbaf.modules.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1539328702347.fa2f230f-0564-45d8-b738-789dc77bef52.event.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1539330740369.41a4e434-5ea0-404b-9b8a-fc9a2c6a0941.main.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1540535907305.81eded88-72ef-4b65-8949-ac6eb996f299.modules.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1539933473327.9146b348-3291-4033-b709-0af597fa55e3.event.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1539933962901.18d2576e-a539-4bea-888d-992b1f5479b3.event.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1539933963074.3e6a8272-870a-450a-97a1-bd64ca0609b9.main.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1539934326014.7f8c6c83-33c0-4bb6-b95d-829bb44229a1.main.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1540388408462.3febff23-f21c-41d6-84c3-0e3b6a34a124.main.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-10/1540539158661.65dceb60-4530-4b49-9ed5-77658e47922e.main.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-11/1541596649867.8f1087c4-53aa-4997-b13b-f5f3b1047ff0.modules.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-11/1541601279043.708fbc38-4386-4c48-b4e7-5bd160988a7f.main.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-11/1542201063602.0584c726-d59d-4135-9063-ef2e2b7eba95.main.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-11/1542201449719.4965bfdd-9446-455d-a859-f337715df82d.modules.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-11/1542204210676.2f85d9c5-fc35-4aa3-955e-926d7e45081f.event.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-11/1542206627461.45c87b7e-a2ea-4f36-9518-9e83b99c6c67.main.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/archived/2018-11/1542353162690.ad811907-f058-4496-adc9-8c12cf336521.main.jsonlz4
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/state.json
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/session-state.json
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/datareporting/aborted-session-ping
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/formhistory.sqlite
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/gmp-gmpopenh264/1.7.1/libgmpopenh264.so
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/gmp-gmpopenh264/1.7.1/gmpopenh264.info
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/key3.db
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/SiteSecurityServiceState.txt
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/features/{bc3624be-56e5-475c-bbf9-63dfe3be7088}/fxmonitor@mozilla.org.xpi
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/features/{d7474e44-33ef-4db5-879f-cd2be7c8ebd7}/fxmonitor@mozilla.org.xpi
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/AlternateServices.txt
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/broadcast-listeners.json
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/SecurityPreloadState.txt
+/home/LABPK/kpatecki/.mozilla/firefox/tonfkivv.default/shield-preference-experiments.json
+/home/LABPK/kpatecki/.mozilla/firefox/profiles.ini
+/home/LABPK/kpatecki/.ssh/known_hosts
+/home/LABPK/kpatecki/srodProgramisty/lab1/cwiczenie1/zad.txt
+/home/LABPK/kpatecki/kpatecki/Videos/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Videos/$RECYCLE.BIN/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Searches/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Searches/Indexed Locations.search-ms
+/home/LABPK/kpatecki/kpatecki/Searches/Everywhere.search-ms
+/home/LABPK/kpatecki/kpatecki/Searches/winrt--{S-1-5-21-3038395147-3389242858-425083738-81739}-.searchconnector-ms
+/home/LABPK/kpatecki/kpatecki/Searches/$RECYCLE.BIN/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Saved Games/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Saved Games/$RECYCLE.BIN/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Pictures/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Pictures/$RECYCLE.BIN/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Pictures/Camera Roll/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Music/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Music/$RECYCLE.BIN/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Links/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Links/Desktop.lnk
+/home/LABPK/kpatecki/kpatecki/Links/Downloads.lnk
+/home/LABPK/kpatecki/kpatecki/Links/$RECYCLE.BIN/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Favorites/Bing.url
+/home/LABPK/kpatecki/kpatecki/Favorites/Links/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Favorites/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Favorites/$RECYCLE.BIN/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Downloads/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Downloads/$RECYCLE.BIN/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Documents/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Documents/$RECYCLE.BIN/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Desktop/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Desktop/$RECYCLE.BIN/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Contacts/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Contacts/$RECYCLE.BIN/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/Accessibility/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/Accessibility/Magnify.lnk
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/Accessibility/Narrator.lnk
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/Accessibility/On-Screen Keyboard.lnk
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/Accessories/Desktop.ini
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/Accessories/Notepad.lnk
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/Accessories/Internet Explorer.lnk
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/Maintenance/Desktop.ini
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/Startup/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/System Tools/Command Prompt.lnk
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/System Tools/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/System Tools/computer.lnk
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/System Tools/Control Panel.lnk
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/System Tools/File Explorer.lnk
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/System Tools/Run.lnk
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/Windows PowerShell/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/Windows PowerShell/Windows PowerShell (x86).lnk
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/Windows PowerShell/Windows PowerShell ISE (x86).lnk
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/Windows PowerShell/Windows PowerShell ISE.lnk
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/Windows PowerShell/Windows PowerShell.lnk
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/Administrative Tools/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Start Menu/Programs/OneDrive.lnk
+/home/LABPK/kpatecki/kpatecki/Start Menu/desktop.ini
+/home/LABPK/kpatecki/kpatecki/Start Menu/$RECYCLE.BIN/desktop.ini
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Macromedia/Flash Player/www.macromedia.com/bin/airappinstaller/airappinstaller.exe
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Macromedia/Flash Player/www.macromedia.com/bin/airappinstaller/digest.s
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Internet Explorer/Quick Launch/desktop.ini
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Internet Explorer/Quick Launch/Shows Desktop.lnk
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Internet Explorer/Quick Launch/Window Switcher.lnk
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Internet Explorer/Quick Launch/User Pinned/TaskBar/File Explorer.lnk
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Internet Explorer/Quick Launch/User Pinned/TaskBar/desktop.ini
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Internet Explorer/Quick Launch/Google Chrome.lnk
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/Recent/desktop.ini
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/Recent/AutomaticDestinations/f01b4d95cf55d32a.automaticDestinations-ms
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/Recent/AutomaticDestinations/5f7b5f1e01b83767.automaticDestinations-ms
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/Recent/CustomDestinations/f01b4d95cf55d32a.customDestinations-ms
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/Recent/CustomDestinations/7e4dca80246863e3.customDestinations-ms
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/SendTo/Compressed (zipped) Folder.ZFSendToTarget
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/SendTo/desktop.ini
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/SendTo/Desktop (create shortcut).DeskLink
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/SendTo/Fax Recipient.lnk
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/SendTo/Mail Recipient.MAPIMail
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/SendTo/Documents.mydocs
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/SendTo/Bluetooth File Transfer.LNK
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/Libraries/Videos.library-ms
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/Libraries/desktop.ini
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/Libraries/Documents.library-ms
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/Libraries/Pictures.library-ms
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/Libraries/Music.library-ms
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/Libraries/CameraRoll.library-ms
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/AccountPictures/desktop.ini
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/Themes/TranscodedWallpaper
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Windows/Themes/CachedFiles/CachedImage_1920_1080_POS4.jpg
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/Network/Connections/Pbk/_hiddenPbk/rasphone.pbk
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/InputMethod/Chs/ChsPinyinUDL_RoamUp.dat
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/Microsoft/InputMethod/Chs/ChsPinyinEUDP_RoamUp.lex
+/home/LABPK/kpatecki/kpatecki/AppData(Roaming)/$RECYCLE.BIN/desktop.ini
+/home/LABPK/kpatecki/.oracle_jre_usage/ffffffffc6c5a443.timestamp
+/home/LABPK/kpatecki/.viminfo
+/home/LABPK/kpatecki/.spamassassin/user_prefs
+/home/LABPK/kpatecki/Lab4/motylek
+/home/LABPK/kpatecki/Lab4/motylek.mrowka
+/home/LABPK/kpatecki/Lab4/motylek.sh
+/home/LABPK/kpatecki/Lab4/suma.sh
+/home/LABPK/kpatecki/Lab4/skrypt.sh
+/home/LABPK/kpatecki/Lab4/suma3.sh
+/home/LABPK/kpatecki/Lab4/info.sh
+/home/LABPK/kpatecki/Lab4/dane.dat
+/home/LABPK/kpatecki/Lab4/copy.sh
+/home/LABPK/kpatecki/Lab4/backup.sh
+/home/LABPK/kpatecki/Lab4/suma2.sh
+/home/LABPK/kpatecki/Lab4/wyszukaj.sh
+/home/LABPK/kpatecki/Lab4/znadz.sh
+/home/LABPK/kpatecki/Lab4/m.dat
+/home/LABPK/kpatecki/Lab4/London.txt
+/home/LABPK/kpatecki/Lab4/sort.sh
+/home/LABPK/kpatecki/Lab4/dane.txt
+/home/LABPK/kpatecki/Lab4/wynik.dat
+/home/LABPK/kpatecki/.emacs.d/session.2421ea6c5-5f28-412d-a80a-c4c4fe03a2ec
+/home/LABPK/kpatecki/Lab4_copy/motylek.mrowka
+/home/LABPK/kpatecki/Lab4_copy/motylek
+/home/LABPK/kpatecki/Lab4_copy/motylek.sh
+/home/LABPK/kpatecki/Lab4_copy/suma.sh
+/home/LABPK/kpatecki/Lab4_copy/info.sh
+/home/LABPK/kpatecki/Lab4_copy/skrypt.sh
+/home/LABPK/kpatecki/Lab4_copy/suma3.sh
+/home/LABPK/kpatecki/Lab4_copy/copy.sh
+/home/LABPK/kpatecki/Lab4_copy/dane.dat
+/home/LABPK/kpatecki/Lab4_copy.tar
+/home/LABPK/kpatecki/.thumbnails/normal/6635e1111ee0cd4813b439af8913fa49.png
